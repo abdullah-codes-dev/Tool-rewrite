@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://webtoolspro.com/sitemap.xml
+
+# Disallow specific paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Crawl-delay in seconds
+Crawl-delay: 10
+
+# Specific rules for Googlebot
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Specific rules for Bingbot
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Specific rules for Yandex
+User-agent: Yandex
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
