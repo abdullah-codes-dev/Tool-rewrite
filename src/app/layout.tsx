@@ -8,18 +8,18 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "WebTools Pro - Professional Web Development Tools",
+	title: "Lahore Traffic Web - Professional Web Development Tools",
 	description:
 		"Powerful web tools for professionals. Text rewriter, robots.txt fetcher, and more. Fast, reliable, and free.",
 	keywords:
-		"web tools, text rewriter, robots.txt, sitemap generator, web development, SEO tools, content optimization",
-	authors: [{ name: "WebTools Pro" }],
-	creator: "WebTools Pro",
+		"Lahore Traffic Web, text rewriter, robots.txt, sitemap generator, web development, SEO tools, content optimization",
+	authors: [{ name: "Lahore Traffic Web" }],
+	creator: "Lahore Traffic Web",
 	openGraph: {
-		title: "WebTools Pro",
+		title: "Lahore Traffic Web",
 		description:
 			"Powerful web tools for professionals. Text rewriter, robots.txt fetcher, and more. Fast, reliable, and free.",
-		url: "https://webtoolspro.com",
+		url: "https://lahoretraffic.site",
 		type: "website",
 		locale: "en_US",
 	},
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
 		},
 	},
 	appleWebApp: {
-		title: "WebTools Pro",
+		title: "Lahore Traffic Web",
 		capable: true,
 		statusBarStyle: "default",
 	},
@@ -50,7 +50,7 @@ export default function RootLayout({
 	return (
 		<html lang='en' suppressHydrationWarning>
 			<head suppressHydrationWarning>
-				<meta name='application-name' content='WebTools Pro' />
+				<meta name='application-name' content='Lahore Traffic Web' />
 				<meta name='msapplication-TileColor' content='#ffffff' />
 				<meta
 					name='msapplication-config'
