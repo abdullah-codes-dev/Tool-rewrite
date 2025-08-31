@@ -14,15 +14,13 @@ export default function AboutPage() {
 			<div className='container mx-auto px-4 max-w-4xl'>
 				<div className='text-center mb-12'>
 					<Badge className='mb-4 bg-gradient-to-r from-blue-600 to-purple-600'>
-						About WebTools Pro
+						About Lahore Traffic Web Tool
 					</Badge>
 					<h1 className='text-4xl font-bold tracking-tight text-gray-900 mb-4'>
 						Professional Web Tools for Everyone
 					</h1>
 					<p className='text-lg text-gray-600 max-w-2xl mx-auto'>
-						We are dedicated to providing high-quality, free web
-						tools that help professionals and enthusiasts streamline
-						their workflow and boost productivity.
+						We are committed to delivering high-quality, free web tools designed to help professionals and enthusiasts simplify their workflow and maximize productivity.
 					</p>
 				</div>
 
@@ -36,10 +34,7 @@ export default function AboutPage() {
 						</CardHeader>
 						<CardContent>
 							<p className='text-gray-600'>
-								To democratize access to professional web
-								development tools by providing fast, reliable,
-								and completely free solutions that anyone can
-								use to enhance their digital projects.
+								Our mission is to make professional web development tools accessible to everyone — fast, reliable, and completely free solutions to enhance any digital project.
 							</p>
 						</CardContent>
 					</Card>
