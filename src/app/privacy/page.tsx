@@ -13,7 +13,7 @@ export default function PrivacyPage() {
 						Privacy Policy
 					</h1>
 					<p className='text-lg text-gray-600'>
-						Last updated: January 2024
+						Last updated: January 2025
 					</p>
 				</div>
 
@@ -25,7 +25,7 @@ export default function PrivacyPage() {
 									1. Information We Collect
 								</h2>
 								<p className='text-gray-600 mb-4'>
-									WebTools Pro is designed with privacy in
+									Lahore Traffic Web is designed with privacy in
 									mind. We collect minimal information to
 									provide our services:
 								</p>
@@ -252,10 +252,10 @@ export default function PrivacyPage() {
 									Policy, please contact us at:
 								</p>
 								<ul className='list-none text-gray-600 space-y-1 mb-4'>
-									<li>Email: privacy@example.com</li>
+									<li>Email: privacy@LahoreTraffic.com</li>
 									<li>
-										Address: 123 Tech Street, San Francisco,
-										CA 94105
+										Address: Taj Town Sheri Garden, San Minchinabad,
+										Mc 62230
 									</li>
 								</ul>
 							</section>
