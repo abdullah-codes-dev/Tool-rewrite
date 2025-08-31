@@ -11,11 +11,10 @@ export default function Footer() {
               <div className="h-8 w-8 rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 flex items-center justify-center">
                 <Zap className="h-5 w-5 text-white" />
               </div>
-              <span className="text-xl font-bold">WebTools Pro</span>
+              <span className="text-xl font-bold">Lahore Traffic Tools </span>
             </Link>
             <p className="text-gray-400 max-w-md">
-              Professional web tools designed to streamline your workflow and boost productivity. Fast, reliable, and
-              completely free to use.
+             Discover powerful Lahore web tools built to simplify your workflow, enhance productivity, and deliver fast, reliable performance — all completely free.
             </p>
           </div>
 
@@ -68,7 +67,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 WebTools Pro. All rights reserved.</p>
+          <p>&copy;© 2025 Lahore Traffic Web Tools. All rights reserved. | Developed by Abdullah. Dev</p>
         </div>
       </div>
     </footer>
