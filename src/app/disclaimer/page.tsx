@@ -26,7 +26,7 @@ export default function DisclaimerPage() {
 								</h2>
 								<p className='text-gray-600 mb-4'>
 									The information and tools provided by
-									WebTools Pro are for general informational
+									Lahore Traffic Web are for general informational
 									and utility purposes only. While we strive
 									to provide accurate and up-to-date tools and
 									information, we make no representations or
@@ -116,7 +116,7 @@ export default function DisclaimerPage() {
 									Limitation of Liability
 								</h2>
 								<p className='text-gray-600 mb-4'>
-									In no event shall WebTools Pro, its owners,
+									In no event shall Lahore Traffic Web, its owners,
 									employees, or affiliates be liable for any
 									direct, indirect, incidental, special,
 									consequential, or punitive damages,
@@ -228,7 +228,7 @@ export default function DisclaimerPage() {
 								<p className='text-gray-600 mb-4'>
 									If you have any questions about this
 									disclaimer, please contact us at
-									legal@webtoolspro.com.
+									legal@LahoreTraficWeb.com.
 								</p>
 							</section>
 						</div>
