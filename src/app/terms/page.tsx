@@ -13,7 +13,7 @@ export default function TermsPage() {
 						Terms of Service
 					</h1>
 					<p className='text-lg text-gray-600'>
-						Last updated: January 2024
+						Last updated: January 2025
 					</p>
 				</div>
 
@@ -25,7 +25,7 @@ export default function TermsPage() {
 									1. Acceptance of Terms
 								</h2>
 								<p className='text-gray-600 mb-4'>
-									By accessing and using WebTools Pro
+									By accessing and using Lahore Traffic Web
 									(&quot;the Service&quot;), you accept and
 									agree to be bound by the terms and provision
 									of this agreement. If you do not agree to
@@ -39,7 +39,7 @@ export default function TermsPage() {
 									2. Description of Service
 								</h2>
 								<p className='text-gray-600 mb-4'>
-									WebTools Pro provides free web development
+									Lahore Traffic Web provides free web development
 									and content creation tools including but not
 									limited to text rewriting, robots.txt
 									fetching, and sitemap analysis. The service
@@ -125,7 +125,7 @@ export default function TermsPage() {
 									7. Limitation of Liability
 								</h2>
 								<p className='text-gray-600 mb-4'>
-									WebTools Pro will not be liable for any
+									Lahore Traffic Web will not be liable for any
 									damages of any kind arising from the use of
 									this service, including but not limited to
 									direct, indirect, incidental, punitive, and
@@ -192,7 +192,7 @@ export default function TermsPage() {
 								<p className='text-gray-600 mb-4'>
 									If you have any questions about these Terms
 									of Service, please contact us at
-									support@example.com.
+									support@LahoreTrafficWeb.com.
 								</p>
 							</section>
 						</div>
