@@ -180,7 +180,7 @@ export default function ContactPage() {
 								<a
 									href='mailto:support@example.com'
 									className='text-blue-600 hover:text-blue-700 font-medium'>
-									support@example.com
+									support@LahoreTraffic.com
 								</a>
 							</CardContent>
 						</Card>
@@ -199,7 +199,7 @@ export default function ContactPage() {
 								<a
 									href='tel:+1-555-123-4567'
 									className='text-blue-600 hover:text-blue-700 font-medium'>
-									+1 (555) 123-4567
+									+92 3077937799
 								</a>
 							</CardContent>
 						</Card>
@@ -213,11 +213,11 @@ export default function ContactPage() {
 							</CardHeader>
 							<CardContent>
 								<p className='text-sm text-gray-600'>
-									123 Tech Street
+									Taj Town Sheri Garden
 									<br />
-									San Francisco, CA 94105
+									San Minchinabad, Mc 62230
 									<br />
-									United States
+									Pakistan
 								</p>
 							</CardContent>
 						</Card>
