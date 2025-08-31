@@ -59,26 +59,26 @@ export default function RootLayout({
 				{/* add search console meta tag here */}
 				<meta
 					name='google-site-verification'
-					content='YOUR_GOOGLE_SITE_VERIFICATION_CODE'
+					content='IE8ywg-X5hPmQqB_USjzAxb5JRKxuca79JL6IZhPCxo'
 				/>
 				{/* Google Analytics */}
 				<script
 					async
-					src='https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX'></script>
+					src='https://www.googletagmanager.com/gtag/js?id=G-S93NQHSX61'></script>
 				<script
 					dangerouslySetInnerHTML={{
 						__html: `
 						window.dataLayer = window.dataLayer || [];
 						function gtag(){dataLayer.push(arguments);}
 						gtag('js', new Date());
-						gtag('config', 'G-XXXXXXXXXX');
+						gtag('config', 'G-S93NQHSX61');
 					`,
 					}}></script>
 
 				{/* Google AdSense */}
 				<script
 					async
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX'
+					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4129934791913469'
 					crossOrigin='anonymous'></script>
 			</head>
 			<body className={inter.className} suppressHydrationWarning>
