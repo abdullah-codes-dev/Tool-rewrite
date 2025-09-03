@@ -1,16 +1,11 @@
 User-agent: *
 Allow: /
-
-# Sitemap
-Sitemap: https://lahoretraffic.site/sitemap.xml
-
-# Disallow specific paths
 Disallow: /api/
 Disallow: /_next/
 Disallow: /static/
 
-# Crawl-delay in seconds
-Crawl-delay: 10
+# Sitemap
+Sitemap: https://lahoretraffic.site/sitemap.xml
 
 # Specific rules for Googlebot
 User-agent: Googlebot
@@ -25,6 +20,7 @@ Allow: /
 Disallow: /api/
 Disallow: /_next/
 Disallow: /static/
+Crawl-delay: 10
 
 # Specific rules for Yandex
 User-agent: Yandex
@@ -32,3 +28,5 @@ Allow: /
 Disallow: /api/
 Disallow: /_next/
 Disallow: /static/
+Crawl-delay: 10
+
